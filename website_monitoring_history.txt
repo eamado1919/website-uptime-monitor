@@ -1,0 +1,92 @@
+
+WEBSITE UPTIME MONITOR
+Run Time: 09/06/2026 01:02:32 PM
+----------------------------------------
+Website: https://google.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/06/2026 01:02:29 PM
+
+Website: https://microsoft.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/06/2026 01:02:30 PM
+
+Website: https://python.org
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/06/2026 01:02:31 PM
+
+MONITORING TOTALS
+Websites UP: 3
+Websites DOWN or unreachable: 0
+Total websites checked: 3
+
+WEBSITE UPTIME MONITOR
+Run Time: 09/06/2026 01:07:49 PM
+----------------------------------------
+Website: https://google.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/06/2026 01:07:46 PM
+
+Website: https://microsoft.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/06/2026 01:07:47 PM
+
+Website: https://python.org
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/06/2026 01:07:48 PM
+
+MONITORING TOTALS
+Websites UP: 3
+Websites DOWN or unreachable: 0
+Total websites checked: 3
+
+WEBSITE UPTIME MONITOR
+Run Time: 09/07/2026 10:34:39 AM
+----------------------------------------
+Website: https://google.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/07/2026 10:34:36 AM
+
+Website: https://microsoft.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/07/2026 10:34:37 AM
+
+Website: https://python.org
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/07/2026 10:34:38 AM
+
+MONITORING TOTALS
+Websites UP: 3
+Websites DOWN or unreachable: 0
+Total websites checked: 3
+
+WEBSITE UPTIME MONITOR
+Run Time: 09/07/2026 12:04:03 PM
+----------------------------------------
+Website: https://google.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/07/2026 12:04:00 PM
+
+Website: https://microsoft.com
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/07/2026 12:04:01 PM
+
+Website: https://python.org
+Status Code: 200
+Status: Website is UP!
+Checked At: 09/07/2026 12:04:02 PM
+
+MONITORING TOTALS
+Websites UP: 3
+Websites DOWN or unreachable: 0
+Total websites checked: 3
