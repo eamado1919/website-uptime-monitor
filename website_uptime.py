@@ -94,9 +94,9 @@ def main():
 
     # List of websites that the monitor will check
     websites = [
-    "https://google.com",
-    "https://microsoft.com",
-    "https://github.com"
+        "https://google.com",
+        "https://microsoft.com",
+        "https://github.com"
 ]
     
     # Initialize an empty list to store the results
