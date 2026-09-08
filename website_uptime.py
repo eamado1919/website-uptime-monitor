@@ -94,11 +94,11 @@ def main():
 
     # List of websites that the monitor will check
     websites = [
-        "https://google.com",
-        "https://microsoft.com",
-        "https://python.org"
-    ]
-
+    "https://google.com",
+    "https://microsoft.com",
+    "https://github.com"
+]
+    
     # Initialize an empty list to store the results
     results = []
 
@@ -162,6 +162,6 @@ def main():
     # Save this monitoring run to the history file
     save_results_to_file(results, up_count, down_count)
 
-    # Run the program
+# Run the program
 if __name__ == "__main__":
     main()
